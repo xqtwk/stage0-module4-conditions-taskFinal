@@ -8,7 +8,7 @@ public class CoordinatePane {
             } else {
                 System.out.println("second");
             }
-        } else if (x < 0){
+        } else if (x < 0) {
             if(y > 0){
                 System.out.println("fourth");
             } else {
